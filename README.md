@@ -1,6 +1,6 @@
 # shzware-framework
-[![Downloads](https://img.shields.io/npm/dt/@shzware-framework/main?style=for-the-badge)]([https://www.npmjs.com/package/discord-achievements](https://www.npmjs.com/package/@shzware-framework/main)
-[![Stable Version](https://img.shields.io/npm/v/@shzware-framework/main?style=for-the-badge)]([https://www.npmjs.com/package/discord-achievements](https://www.npmjs.com/package/@shzware-framework/main)
+[![Downloads](https://img.shields.io/npm/dt/@shzware-framework/main?style=for-the-badge)]([https://www.npmjs.com/package/discord-achievements](https://www.npmjs.com/package/@shzware-framework/main))
+[![Stable Version](https://img.shields.io/npm/v/@shzware-framework/main?style=for-the-badge)]([https://www.npmjs.com/package/discord-achievements](https://www.npmjs.com/package/@shzware-framework/main))
 
 Simple framework for JavaScript.
 
