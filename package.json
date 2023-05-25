@@ -1,0 +1,19 @@
+{
+  "name": "@shzware-framework/main",
+  "version": "0.0.1-fixapi",
+  "description": "ShZWare Main Framework",
+  "main": "loader.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shyzuu",
+  "keywords": [
+    "framework",
+    "shzware"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@shzware-framework/api": "latest"
+  }
+}
