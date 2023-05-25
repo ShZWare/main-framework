@@ -1,6 +1,6 @@
 {
   "name": "@shzware-framework/main",
-  "version": "0.0.2-smallfix2",
+  "version": "0.0.2-smallfix3",
   "description": "ShZWare Main Framework",
   "main": "loader.js",
   "scripts": {
