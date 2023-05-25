@@ -1,6 +1,6 @@
 {
   "name": "@shzware-framework/main",
-  "version": "0.0.1-fixapi",
+  "version": "0.0.2",
   "description": "ShZWare Main Framework",
   "main": "loader.js",
   "scripts": {
@@ -10,7 +10,12 @@
   "author": "Shyzuu",
   "keywords": [
     "framework",
-    "shzware"
+    "shzware",
+    "elevenlabs",
+    "ai",
+    "voice",
+    "text-to-speech",
+    "tts"
   ],
   "license": "MIT",
   "dependencies": {
