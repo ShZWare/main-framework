@@ -1,6 +1,6 @@
 {
   "name": "@shzware-framework/main",
-  "version": "0.0.2",
+  "version": "0.0.2-smallfix",
   "description": "ShZWare Main Framework",
   "main": "loader.js",
   "scripts": {
@@ -8,6 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shyzuu",
+  "bugs": {
+    "url": "https://github.com/ShZWare/main-framework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShZWare/main-framework.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "framework",
     "shzware",
