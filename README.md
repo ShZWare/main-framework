@@ -13,7 +13,7 @@ For node.js, you can use this command to install:
 ## Usage
 You could use like this:
 ```JavaScript
-const framework = require("@shzware-framework/api");
+const api = require("@shzware-framework/api");
 ```
 ## Example
 ```JavaScript
@@ -65,6 +65,13 @@ const getResponse = api.getElevenLabsVoice(apiKey).then(res => {
 const apiKey = 'your-api-key', voiceId = 'any-voiceId-from-elevenlabs';
 
 const getResponse = api.getElevenLabsVoiceSettings(apiKey, voiceId).then(res => {
+    console.log(res);
+})
+
+// Get ElevenLabs User Info
+const apiKey = 'your-api-key';
+
+const getResponse = api.getElevenLabsUser(apiKey).then(res => {
     console.log(res);
 })
 
